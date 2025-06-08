@@ -1,15 +1,15 @@
 # [![MasterHead](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
 <h1 align="center">Hi 👋, I'm Hunain Sayyed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="4000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyedhunain&label=Profile%20views&color=0e75b6&style=flat" alt="sayyedhunain" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@its_me_hunain" target="blank"><img src="https://img.shields.io/twitter/follow/@its_me_hunain?logo=twitter&style=for-the-badge" alt="@its_me_hunain" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Database Management**
 
 - 📫 How to reach me **sayyedhunain5766@gmail.com**
 
